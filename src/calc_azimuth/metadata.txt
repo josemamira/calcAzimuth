@@ -7,17 +7,17 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=Calculate Azimuth
+name=Calc Azimuth
 qgisMinimumVersion=3.0
-description=Calculate azimuth 2 points
+description=Calculate azimuth and distance between two points
 version=0.1
-author=Jose
-email=jose@ua.es
+author=José Manuel Mira Martínez
+email=josema.mira@gmail.com
 
-about=Provide a brief description of the plugin and its purpose.
+about=Calculate azimuth and distance between two points
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/josemamira/calcAzimuth
+repository=https://github.com/josemamira/calcAzimuth
 # End of mandatory metadata
 
 # Recommended items:
@@ -26,9 +26,9 @@ repository=http://repo
 # changelog=
 
 # Tags are comma separated with spaces allowed
-tags=python
+tags=azimuth, distance, src
 
-homepage=http://homepage
+homepage=https://github.com/josemamira
 category=Plugins
 icon=icon.png
 # experimental flag
