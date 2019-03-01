@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/calc_azimuth" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
