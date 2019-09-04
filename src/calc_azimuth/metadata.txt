@@ -16,7 +16,7 @@ email=josema.mira@gmail.com
 
 about=Calculate azimuth and distance between two points
 
-tracker=https://github.com/josemamira/calcAzimuth
+tracker=https://github.com/josemamira/calcAzimuth/issues
 repository=https://github.com/josemamira/calcAzimuth
 # End of mandatory metadata
 
